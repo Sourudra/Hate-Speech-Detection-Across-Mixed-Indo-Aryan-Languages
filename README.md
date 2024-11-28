@@ -1,2 +1,2 @@
 # Hate_Speech_Detection
-hinglish and Banglish
+Hinglish and Banglish
