@@ -13,7 +13,7 @@ As online platforms grow, these languages have evolved into code-mixed forms lik
 This project compares the performance of hate speech detection models across Hinglish and Banglish using **BERT-based architectures**, emphasizing the linguistic complexities of multilingual code-mixed environments.  
 
 ### **GitHub Link**  
-[[Insert GitHub link here](https://github.com/Sourudra/Hate-Speech-Detection-Across-Mixed-Indo-Aryan-Languages)]
+[[### **GitHub Link**](https://github.com/Sourudra/Hate-Speech-Detection-Across-Mixed-Indo-Aryan-Languages)]
 
 ---
 
