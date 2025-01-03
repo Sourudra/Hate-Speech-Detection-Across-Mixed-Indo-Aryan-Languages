@@ -61,12 +61,12 @@ This project compares the performance of hate speech detection models across Hin
 ![Hate Speech Detection Architecture](https://github.com/user-attachments/assets/a2291768-c3c8-44ff-9f0f-6edad8464038)
 
 
-
+![trend 3](https://github.com/user-attachments/assets/56650abe-d0c0-404c-9b05-91ebb7c1d0c2)
 
 
 
 ![lime](https://github.com/user-attachments/assets/4664d517-d5b2-407b-8c89-224c95260b84)
-![trend 3](https://github.com/user-attachments/assets/56650abe-d0c0-404c-9b05-91ebb7c1d0c2)
+
 
 
 
