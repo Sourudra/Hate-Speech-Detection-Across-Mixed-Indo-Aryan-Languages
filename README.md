@@ -47,14 +47,7 @@ This project compares the performance of hate speech detection models across Hin
 
 ## **Preliminary Insights**  
 - **Banglish Model**: Outperforms Hinglish due to a less noisy dataset and better linguistic structure.  
-- Effective preprocessing and tokenization techniques are critical to capture the intricate patterns in code-mixed languages.
-
----
-
-## **Future Directions**  
-- **Hyperparameter Tuning:** To optimize model performance.  
-- **Architecture Exploration:** Experimenting with **LSTM + BERT embeddings** and **MConv-LSTM + BERT embeddings**.  
-- **Comparative Analysis:** To refine approaches and optimize detection capabilities.  
+- Effective preprocessing and tokenization techniques are critical to capture the intricate patterns in code-mixed languages. 
 
 ---
 
