@@ -16,7 +16,7 @@ This project compares the performance of hate speech detection models across Hin
 
 ---
 
-## **Current Progress**  
+## **Results**  
 - **Hinglish Model Accuracy:** 72%  
 - **Banglish Model Accuracy:** 75%  
 - Built using `bert-base-multilingual-cased`, a pre-trained model supporting over 100 languages.
